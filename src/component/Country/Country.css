@@ -1,0 +1,10 @@
+.country-box{
+    width: 18.2rem;
+    height: 370px;
+    margin: 20px;
+    text-align: center;
+    border: none;
+    border: .5px solid lightgray;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 40px lightgray;
+}
