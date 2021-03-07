@@ -24,7 +24,7 @@ const CountryDetail = () => {
             <Header></Header>
             <div className="detail-box-style">
                 <div className="country-detail">
-                    <img style={{ width: '290px', height: '180px' }} src={flag} alt="" />
+                    <img style={{ width: '326px', height: '180px' }} src={flag} alt="" />
                     <h2>Name: {name}</h2>
                     <h3>Native Name: {nativeName}</h3>
                     <h4>Region: {region}</h4>
